@@ -3,3 +3,6 @@ node_js:
   - "4.0"
 before_script:
   - npm install mocha -g
+notifications:
+  email:
+    - peter.short@gmail.com
